@@ -1,0 +1,58 @@
+﻿<?xml version='1.0'?>
+<?mso-application progid='Excel.Sheet'?>
+<s:Workbook xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:s="urn:schemas-microsoft-com:office:spreadsheet">
+  <s:Worksheet s:Name="Rezultatai">
+    <s:Table>
+      <s:Column />
+      <s:Column />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Koks Jūsų vardas?</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Atsakymas pasirinktas (įrašytas) kartų</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Saulius</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">3</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Andrius</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">2</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Kokia gyvenimo prasmė?</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Atsakymas pasirinktas (įrašytas) kartų</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Nėra</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Yra</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+    </s:Table>
+  </s:Worksheet>
+</s:Workbook>

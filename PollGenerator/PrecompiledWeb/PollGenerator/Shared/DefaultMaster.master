@@ -1,0 +1,98 @@
+﻿<%@ master language="C#" autoeventwireup="true" inherits="Shared_DefaultMaster, App_Web_mxwnwyll" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html" />
+<meta name="keywords" content="apklausa, apklausos, internetinės apklausos, apklausosos internetu, nemokamos apklausos, internetinės anketos, anketos" />  
+<meta name="description" content="Klausiu.lt - internetinių apklausų kūrimo sistema. Tai paprastas, greitas ir patogus būdas kurti apklausas. Kas geriausia, visa tai gaunate nemokamai!" />  
+<title>Klausiu.lt</title>
+<link rel="Stylesheet" href="~/App_Themes/Genius/style.css" type="text/css" />
+</head>
+
+<body>
+<div id="demo">
+	<a><img src="~/App_Themes/Genius/images/demo.png" alt="Genious Web" width="107" height="106" border="0" title="Klausiu.lt" runat="server" /></a>
+</div>
+
+<div id="logo">
+	<a><img src="~/App_Themes/Genius/images/logo1.png" alt="Genious Web" width="429" height="97" border="0" title="Klausiu.lt" runat="server" /></a>
+</div>
+
+<form id="mainForm" runat="server">
+<div id="topPan">
+	<a href="http://klausiu.lt" ><img src="~/App_Themes/Genius/images/logo.png" alt="Klausiu.lt" width="308" height="73" border="0" title="Klausiu.lt" runat="server" /></a>
+    <ul>
+    <asp:Menu ID="Menu1"   runat="server"  
+                DataSourceID="ApplicationSiteMap"  
+                SkipLinkText="" Orientation="Horizontal" MaximumDynamicDisplayLevels="1" 
+                onmenuitemclick="Menu1_MenuItemClick" >
+                
+                 <StaticItemTemplate > <li class="home"> <%# Eval("Text") %> </li> </StaticItemTemplate>
+            
+             <DataBindings>
+                <asp:MenuItemBinding DataMember="SiteMapNode" ValueField="Url" TextField="Title" />
+            </DataBindings>
+         </asp:Menu>
+       
+    </ul>
+    
+    <ul class="dropdown">
+		
+		
+		
+		<asp:LoginView ID="LoginView1" runat="server">
+             <LoggedInTemplate>
+             Sveiki, <b><asp:LoginName ID="LoginName1" runat="server" /></b> / <asp:LoginStatus ID="LoginStatus1" runat="server" LoginText="Prisijungti" LogoutAction="Redirect" LogoutText="Atsijungti" LogoutPageUrl="~/Apie.aspx" />
+             </LoggedInTemplate>
+             <AnonymousTemplate> 
+             <asp:LoginStatus ID="LoginStatus1" runat="server" LoginText="Prisijungti" 
+              LogoutText="Atsijungti" LogoutAction="Redirect" LogoutPageUrl="~/Apie.aspx" /> 
+              </AnonymousTemplate>                                
+        </asp:LoginView>
+		
+		
+	</ul>
+    
+    
+	
+	
+</div>
+<div id="bodytopmainPan">
+    
+<div id="bodytopPan">
+	<asp:ContentPlaceHolder ID="DefaultContent" runat="server" />
+</div>
+</div>
+
+
+<div id="footermainPan">
+  <div id="footerPan">
+  	
+	<a href="http://klausiu.lt" ><img src="~/App_Themes/Genius/images/footer-logo.jpg" title="Klausiu.lt" alt="Klausiu.lt" width="186" height="50" border="0" class="footerlogo" runat="server" /></a> 
+		<ul>
+		<li><a href="http://klausiu.lt/Registracija.aspx">Registracija</a> |</li>
+  		<li><a href="http://klausiu.lt/AtsakomybesApribojimas.aspx">Atsakomybės apribojimas</a> |</li>
+		<li><a href="http://klausiu.lt/Apie.aspx">Apie</a></li>
+  		
+ 	 </ul>
+  	<p class="copyright"><a href="http://sunauskas.lt" target="blank_" >© 2009 <b>Saulius Šunauskas</b></a></p>
+  	<ul class="templateworld">
+  		<li>Tema: Modestas Jonaitis</li>
+		
+    </ul>
+	</div>
+	</div>
+	<asp:SiteMapDataSource ID="ApplicationSiteMap" runat="server" SiteMapProvider="DefaultSiteMapProvider" ShowStartingNode="False" />
+	</form>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2341714-8");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

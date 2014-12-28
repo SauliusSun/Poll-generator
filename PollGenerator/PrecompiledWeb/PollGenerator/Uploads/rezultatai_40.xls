@@ -1,0 +1,122 @@
+﻿<?xml version='1.0'?>
+<?mso-application progid='Excel.Sheet'?>
+<s:Workbook xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:s="urn:schemas-microsoft-com:office:spreadsheet">
+  <s:Worksheet s:Name="Rezultatai">
+    <s:Table>
+      <s:Column />
+      <s:Column />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Koks tavo vardas?</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Atsakymas pasirinktas (įrašytas) kartų</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Saulius</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Andrius</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Kiek tau metų?</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Atsakymas pasirinktas (įrašytas) kartų</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">21</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">25</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Kur gyveni?</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Atsakymas pasirinktas (įrašytas) kartų</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Kaunas</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Vilnius</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Apie ką svajoji?</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Atsakymas pasirinktas (įrašytas) kartų</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Merginos </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">2</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Alus</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Kokia tavo profesija?</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Atsakymas pasirinktas (įrašytas) kartų</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">IT specialistas</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">2</s:Data>
+        </s:Cell>
+      </s:Row>
+    </s:Table>
+  </s:Worksheet>
+</s:Workbook>

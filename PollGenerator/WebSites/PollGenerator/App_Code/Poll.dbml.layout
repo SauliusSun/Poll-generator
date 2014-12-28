@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Poll">
+  <DataContextMoniker Name="/PollDataContext" />
+  <nestedChildShapes>
+    <classShape Id="0d145453-8068-44e8-a98f-ec429114baa3" absoluteBounds="2.5, 1.625, 2, 1.5891951497395827">
+      <DataClassMoniker Name="/PollDataContext/Statistic" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6390d971-0c46-4c19-8a99-b61ef7a65b14" absoluteBounds="2.5150000005960464, 2.0850000008940697, 1.9700000000000002, 1.0291951497395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5f74e4e8-e24b-4298-b351-ee4aad274f8d" absoluteBounds="3.5, 4.625, 2, 1.7535424804687505">
+      <DataClassMoniker Name="/PollDataContext/Question" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4c9ba55b-3559-4d94-bb40-a3a2b3bce910" absoluteBounds="3.5150000005960464, 5.08500000089407, 1.9700000000000002, 1.19354248046875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4 : 4.625); (4 : 3.21419514973958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/PollDataContext/Question/Question_Statistic" />
+      <nodes>
+        <classShapeMoniker Id="5f74e4e8-e24b-4298-b351-ee4aad274f8d" />
+        <classShapeMoniker Id="0d145453-8068-44e8-a98f-ec429114baa3" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="25b6a285-5d9d-4942-93f6-5dc29a18bfeb" absoluteBounds="4.75, 2.375, 2, 1.2605004882812505">
+      <DataClassMoniker Name="/PollDataContext/Answer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="30353a80-f640-49d8-ada1-968eee1237c9" absoluteBounds="4.7650000005960464, 2.8350000008940697, 1.9700000000000002, 0.70050048828125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.125 : 4.625); (5.125 : 3.63550048828125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/PollDataContext/Question/Question_Answer" />
+      <nodes>
+        <classShapeMoniker Id="5f74e4e8-e24b-4298-b351-ee4aad274f8d" />
+        <classShapeMoniker Id="25b6a285-5d9d-4942-93f6-5dc29a18bfeb" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="6f464879-1e01-4904-b860-5cbc0bf34eb5" absoluteBounds="1.375, 6.5, 2, 1.2605004882812496">
+      <DataClassMoniker Name="/PollDataContext/RespondersIP" />
+      <nestedChildShapes>
+        <elementListCompartment Id="34f7f22c-29ac-401a-b59c-d27726f00627" absoluteBounds="1.3900000000000001, 6.96, 1.9700000000000002, 0.70050048828125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b56ccef4-6f7d-4ec9-9db4-32b91257a3cb" absoluteBounds="0.5, 3.375, 2, 2.7396264648437505">
+      <DataClassMoniker Name="/PollDataContext/Poll" />
+      <nestedChildShapes>
+        <elementListCompartment Id="42092702-a4ec-4a8c-b1f0-db444d58bc2e" absoluteBounds="0.51500000000000012, 3.835, 1.9700000000000002, 2.17962646484375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.4999995 : 3.375); (1.4999995 : 2.41959757486979); (2.5 : 2.41959757486979)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/PollDataContext/Poll/Poll_Statistic" />
+      <nodes>
+        <classShapeMoniker Id="b56ccef4-6f7d-4ec9-9db4-32b91257a3cb" />
+        <classShapeMoniker Id="0d145453-8068-44e8-a98f-ec429114baa3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.5 : 5.36981323242188); (3.5 : 5.36981323242188)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/PollDataContext/Poll/Poll_Question" />
+      <nodes>
+        <classShapeMoniker Id="b56ccef4-6f7d-4ec9-9db4-32b91257a3cb" />
+        <classShapeMoniker Id="5f74e4e8-e24b-4298-b351-ee4aad274f8d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.9375 : 6.11462646484375); (1.9375 : 6.5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/PollDataContext/Poll/Poll_RespondersIP" />
+      <nodes>
+        <classShapeMoniker Id="b56ccef4-6f7d-4ec9-9db4-32b91257a3cb" />
+        <classShapeMoniker Id="6f464879-1e01-4904-b860-5cbc0bf34eb5" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,77 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebSites", "WebSites", "{9C2FACA8-EFEA-4405-868C-285AEDC69F98}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PollGenerator", "WebSites\PollGenerator\", "{157DFEDC-8AAF-4F1C-8608-663A7CF24662}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		ProjectReferences = "{CFB12FC3-3236-4A0E-B2C2-E93D758E21CF}|Shell.dll;{C138A6CF-279A-4E1E-83C3-D5B0FDCB4883}|Poll.dll;{01920920-7828-4720-8B1A-6F98CE693E06}|Poll.Interface.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/PollGenerator"
+		Debug.AspNetCompiler.PhysicalPath = "WebSites\PollGenerator\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\PollGenerator\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/PollGenerator"
+		Release.AspNetCompiler.PhysicalPath = "WebSites\PollGenerator\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\PollGenerator\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4839"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{794CE223-8CB9-49C7-B43B-984F013965D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shell", "Modules\Shell\Shell.csproj", "{CFB12FC3-3236-4A0E-B2C2-E93D758E21CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poll", "Poll\Poll.csproj", "{C138A6CF-279A-4E1E-83C3-D5B0FDCB4883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poll.Interface", "Poll.Interface\Poll.Interface.csproj", "{01920920-7828-4720-8B1A-6F98CE693E06}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B4AEC623-071F-454A-85A5-A8F4A2D1D91B}"
+	ProjectSection(SolutionItems) = preProject
+		ProjectMapping.xml = ProjectMapping.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{157DFEDC-8AAF-4F1C-8608-663A7CF24662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157DFEDC-8AAF-4F1C-8608-663A7CF24662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157DFEDC-8AAF-4F1C-8608-663A7CF24662}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{157DFEDC-8AAF-4F1C-8608-663A7CF24662}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{CFB12FC3-3236-4A0E-B2C2-E93D758E21CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB12FC3-3236-4A0E-B2C2-E93D758E21CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB12FC3-3236-4A0E-B2C2-E93D758E21CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB12FC3-3236-4A0E-B2C2-E93D758E21CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C138A6CF-279A-4E1E-83C3-D5B0FDCB4883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C138A6CF-279A-4E1E-83C3-D5B0FDCB4883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C138A6CF-279A-4E1E-83C3-D5B0FDCB4883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C138A6CF-279A-4E1E-83C3-D5B0FDCB4883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01920920-7828-4720-8B1A-6F98CE693E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01920920-7828-4720-8B1A-6F98CE693E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01920920-7828-4720-8B1A-6F98CE693E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01920920-7828-4720-8B1A-6F98CE693E06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{157DFEDC-8AAF-4F1C-8608-663A7CF24662} = {9C2FACA8-EFEA-4405-868C-285AEDC69F98}
+		{CFB12FC3-3236-4A0E-B2C2-E93D758E21CF} = {794CE223-8CB9-49C7-B43B-984F013965D5}
+		{C138A6CF-279A-4E1E-83C3-D5B0FDCB4883} = {794CE223-8CB9-49C7-B43B-984F013965D5}
+		{01920920-7828-4720-8B1A-6F98CE693E06} = {794CE223-8CB9-49C7-B43B-984F013965D5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		IsWCSFSolution = True
+		RootNamespace = PollGenerator
+	EndGlobalSection
+EndGlobal

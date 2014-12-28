@@ -1,0 +1,162 @@
+﻿<?xml version='1.0'?>
+<?mso-application progid='Excel.Sheet'?>
+<s:Workbook xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:s="urn:schemas-microsoft-com:office:spreadsheet">
+  <s:Worksheet s:Name="Rezultatai">
+    <s:Table>
+      <s:Column />
+      <s:Column />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Su kuria programa rengiamos prezentacijos?</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Atsakymas pasirinktas (įrašytas) kartų</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Microsoft PowerPoint</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Microsoft Office Word</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String"> Paint</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Pasirinkite programą su kuria kuriami filmukai.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Atsakymas pasirinktas (įrašytas) kartų</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Windows Live Movie Maker</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">2</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String"> Microsoft PowerPoint</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Kurie iš čia pažymėtų variantų yra nuotraukų formatai.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Atsakymas pasirinktas (įrašytas) kartų</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">FOTO</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">2</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">BMP</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">2</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">JPG</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Kuria naršykle naudojatės?</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Atsakymas pasirinktas (įrašytas) kartų</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Firefox</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">IE 8</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Google Chrome</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Kiek valandų per savaitę praleidžiate prie kompiuterio?</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Atsakymas pasirinktas (įrašytas) kartų</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">50</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">15</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">3</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+    </s:Table>
+  </s:Worksheet>
+</s:Workbook>

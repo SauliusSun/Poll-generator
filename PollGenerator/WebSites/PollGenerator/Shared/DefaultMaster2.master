@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="DefaultMaster2.master.cs" Inherits="Shared_MasterPage2" %>
+
+<<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+
+<head runat="server">
+<title>ApklausaTau.lt</title>
+<link rel="Stylesheet" href="~/App_Themes/Default/style.css" type="text/css" media="screen" />
+</head>
+
+<body>
+<form id="mainForm" runat="server">
+<div id="page">
+	<div id="header"></div>
+	
+	<div id="mainarea">
+	<div id="sidebar">
+		<div id="headerleft">
+			<h1><a href="#">ApklausaTau.lt</a></h1>
+		</div>
+		
+		<div id="menulinks" >
+		 <asp:Menu ID="Menu1"  runat="server"  
+                DataSourceID="ApplicationSiteMap" 
+                SkipLinkText="" MaximumDynamicDisplayLevels="1" 
+                onmenuitemclick="Menu1_MenuItemClick" >
+             <DataBindings>
+                <asp:MenuItemBinding DataMember="SiteMapNode" ValueField="Url" TextField="Title" />
+            </DataBindings>
+          
+             <StaticSelectedStyle CssClass="active" />
+ 
+             
+             <DynamicSelectedStyle CssClass="active" />
+ 
+             
+         </asp:Menu>
+		</div>
+		
+	</div>
+		
+	
+	<div id="contentarea">
+	<asp:ContentPlaceHolder ID="DefaultContent" runat="server" />
+	</div>
+	
+	
+	<div id="footer">
+		<a href="http://www.free-css-templates.com/">Šablonas iš Free CSS Templates</a> | <a href="http://www.injuryexperts.com/">Ačiū Personal Injury Attorney</a> | <a href="http://sunauskas.lt"><b>© 2009 Saulius Šunauskas</b></a>
+	</div>
+
+</div>
+</div>
+<asp:SiteMapDataSource ID="ApplicationSiteMap" runat="server" SiteMapProvider="DefaultSiteMapProvider" ShowStartingNode="False" />
+</form>
+</body>
+
+</html>

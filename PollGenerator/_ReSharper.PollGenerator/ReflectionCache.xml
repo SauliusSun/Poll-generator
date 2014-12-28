@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Assemblies Version="1073741836">
+  <Assembly Name="System.WorkflowServices, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Image="2116c2d5-2e98-4d1f-97eb-5df5a11a9f0e" Timestamp="633529608480000000" XmlDocIndexTimestamp="633489931300000000" />
+  <Assembly Name="System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="88293f1b-76f3-42b5-a4ad-c19fea90ad59" Timestamp="633529608480000000" XmlDocIndexTimestamp="633489931300000000" />
+  <Assembly Name="System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="7a1f5b35-7ada-418b-a35e-bbd52f4dd45e" Timestamp="633529608480000000" XmlDocIndexTimestamp="633489931300000000" />
+  <Assembly Name="Microsoft.Practices.ObjectBuilder, Version=1.0.51206.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" Image="f68118aa-2af7-4b83-b542-555fa411e12c" Timestamp="633395459940000000" />
+  <Assembly Name="System.Data.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="e90132b0-8709-4c61-8f12-e6430138bf9b" Timestamp="633529608480000000" XmlDocIndexTimestamp="633491666500000000" />
+  <Assembly Name="System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="fa9c7069-0af8-4e2c-9beb-9504c6958be2" Timestamp="633529608480000000" XmlDocIndexTimestamp="633489931300000000" />
+  <Assembly Name="Microsoft.Practices.EnterpriseLibrary.Security, Version=3.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" Image="e3e9de77-77f1-4967-8c82-cf63b8f4d819" Timestamp="633395459940000000" />
+  <Assembly Name="Microsoft.Practices.CompositeWeb, Version=2.0.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Image="9a8d97e1-50fe-4589-b9fc-4237e3f2d52d" Timestamp="633395459960000000" />
+  <Assembly Name="System.ServiceModel.Web, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Image="03de7332-12b6-4f9c-80e9-097a7e519b89" Timestamp="633529608480000000" XmlDocIndexTimestamp="633480432880000000" />
+  <Assembly Name="Microsoft.Practices.EnterpriseLibrary.ExceptionHandling, Version=3.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" Image="c7ff2bfd-48d0-4eae-b85f-93e438a6bf45" Timestamp="633395459940000000" />
+  <Assembly Name="Microsoft.Practices.CompositeWeb.EnterpriseLibrary, Version=2.0.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Image="295e9e29-50c7-4699-bcb0-62a38d3d2ad1" Timestamp="633395459960000000" />
+  <Assembly Name="Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging, Version=3.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" Image="527317ec-00d0-4114-8fb8-634c7b76c281" Timestamp="633395459940000000" />
+  <Assembly Name="Microsoft.Practices.EnterpriseLibrary.Common, Version=3.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" Image="b2697559-b01f-4498-95c7-f10531ec2606" Timestamp="633395459940000000" />
+  <Assembly Name="Microsoft.Practices.EnterpriseLibrary.Logging, Version=3.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" Image="e735d7eb-923d-4a4f-a350-29b542be10af" Timestamp="633395459940000000" />
+  <Assembly Name="System.Web.Extensions.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Image="80434ebe-23a3-46e7-9978-5fbd557261ce" Timestamp="633529608480000000" XmlDocIndexTimestamp="633489931300000000" />
+  <Assembly Name="AjaxControlToolkit, Version=1.0.10123.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e" Image="dd27f678-79de-4b5e-a10d-cdf258a2da8d" Timestamp="633051581740000000" />
+  <Assembly Name="CarlosAg.ExcelXmlWriter, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null" Image="9eb942b0-6ac5-4050-bdfe-afa84fffca86" Timestamp="632607480600000000" />
+  <Assembly Name="System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Image="0c4f0474-80c6-485a-b61f-f90024836c90" Timestamp="633640965300000000" XmlDocIndexTimestamp="633492535960000000" />
+  <Assembly Name="System.ServiceModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="5e669999-ec0e-4d14-a490-fe4a4ec97393" Timestamp="633640939320000000" XmlDocIndexTimestamp="633489060100000000" />
+  <Assembly Name="System.Runtime.Serialization, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="71256bbc-def6-47f9-865f-b662765620b7" Timestamp="633529449980000000" XmlDocIndexTimestamp="633489931300000000" />
+  <Assembly Name="System.IdentityModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="7f932145-624b-40e5-adaa-46abb10309a6" Timestamp="633529449980000000" XmlDocIndexTimestamp="633489931300000000" />
+  <Assembly Name="JetBrains.Annotations, Version=4.1.933.3, Culture=neutral, PublicKeyToken=1010a0d8d6380325" Image="119b62b6-a91c-427d-9158-87b69a0cf142" Timestamp="633559634920000000" XmlDocIndexTimestamp="633559634920000000" />
+  <Assembly Name="AjaxControlToolkit, Version=3.0.30930.28736, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e" Image="9ded601d-d144-4a9e-916b-66d803356c34" Timestamp="633899194740000000" />
+  <Assembly Name="am.Charts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b938ced8cfc9b4f3" Image="fe5a70c2-1f84-4ea8-ba43-58e1a332befd" Timestamp="633772835800000000" />
+</Assemblies>

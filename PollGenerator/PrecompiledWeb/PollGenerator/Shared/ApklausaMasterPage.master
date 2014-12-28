@@ -1,0 +1,49 @@
+﻿<%@ master language="C#" autoeventwireup="true" inherits="Shared_ApklausaMasterPage, App_Web_mxwnwyll" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='cs' lang='cs'>
+ <head runat="server">
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <meta http-equiv='Content-Language' content='cs' />   
+  <meta name="author" content="" />
+  <meta name="keywords" content="" />  
+  <meta name="description" content="" />  
+ 
+  <link rel="stylesheet" href="../App_Themes/Apklausa/styl.css" type="text/css" />
+ 
+  <title><%= Page.Title %> | Klausiu.lt</title>
+
+ </head>
+ <body>
+  <form id="mainForm" runat="server">
+  <div id="pattern-gradient"></div>
+    <div id="page">
+        <p id='header'><%= Page.Title %></p>
+        
+        <ul id='menu'>
+           
+        </ul>
+
+        
+        <div id="contain">
+             
+            <asp:ContentPlaceHolder ID="DefaultContent" runat="server" />    
+        
+        </div>
+        
+        <div id="footer">
+        </div>
+          
+           
+    
+    </div>
+    
+    <ul id='not-delete-please' class='links'>
+    
+        <li><a href='http://www.junglegym.cz/' title='Detska hriste Jungle Gym'>Detska hriste</a></li>
+        <li class='right-link'>| <a href='http://www.seokings.cz/' title='Internetový marketing - SeoKings.cz'>Internetový marketing - SEO &amp; SEM</a> | <a href="http://klausiu.lt" target="_blank"><b>© 2009 Klausiu.lt</b></a></li>
+        
+    </ul>  
+ </form>
+ </body>
+</html>

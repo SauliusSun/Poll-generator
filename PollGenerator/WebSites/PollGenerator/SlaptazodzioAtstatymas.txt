@@ -1,0 +1,10 @@
+﻿Primename Jūsų varotojo duomenis internetinių apklausų kūrimo sistemoje Klausiu.lt:
+   Vartotojo vardas:   <%UserName%>
+   Slaptažodis:   <%Password%>
+        
+Prisijungti prie sistemos galite šiuo adresu:
+http://klausiu.lt/Prisijungti.aspx   
+
+Su pagarba,
+Klausiu.lt autorius,
+Saulius Šunauskas

@@ -1,0 +1,138 @@
+﻿<?xml version='1.0'?>
+<?mso-application progid='Excel.Sheet'?>
+<s:Workbook xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:s="urn:schemas-microsoft-com:office:spreadsheet">
+  <s:Worksheet s:Name="Rezultatai">
+    <s:Table>
+      <s:Column />
+      <s:Column />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">efefefefefefefefefef</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Atsakymas pasirinktas (įrašytas) kartų</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">grgrrrrgrg</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">2</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">gfrtrh</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">de</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">saf</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">wewgweg</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">wefe</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">grrėįr</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">defwee</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">rgr</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Atsakymas pasirinktas (įrašytas) kartų</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">fwfwf</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">efwffwe</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">grgrgrgrgrgrgrgrgrgrgrgr</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Atsakymas pasirinktas (įrašytas) kartų</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">grgrr</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">2</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">rrrrrrrrrr</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">6</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">rggr</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+      </s:Row>
+    </s:Table>
+  </s:Worksheet>
+</s:Workbook>

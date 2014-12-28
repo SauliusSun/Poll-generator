@@ -1,0 +1,10 @@
+﻿<?xml version='1.0'?>
+<?mso-application progid='Excel.Sheet'?>
+<s:Workbook xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:s="urn:schemas-microsoft-com:office:spreadsheet">
+  <s:Worksheet s:Name="Rezultatai">
+    <s:Table>
+      <s:Column />
+      <s:Column />
+    </s:Table>
+  </s:Worksheet>
+</s:Workbook>

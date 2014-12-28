@@ -1,0 +1,34 @@
+﻿<?xml version='1.0'?>
+<?mso-application progid='Excel.Sheet'?>
+<s:Workbook xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:s="urn:schemas-microsoft-com:office:spreadsheet">
+  <s:Worksheet s:Name="Rezultatai">
+    <s:Table>
+      <s:Column />
+      <s:Column />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">ththththththth</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Atsakymas pasirinktas (įrašytas) kartų</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">tthththh474747</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Atsakymas pasirinktas (įrašytas) kartų</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">hht</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Atsakymas pasirinktas (įrašytas) kartų</s:Data>
+        </s:Cell>
+      </s:Row>
+    </s:Table>
+  </s:Worksheet>
+</s:Workbook>

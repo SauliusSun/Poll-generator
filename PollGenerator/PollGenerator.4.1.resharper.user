@@ -1,0 +1,742 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:Prisijungti.aspx" caret="310" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:App_Code/f:EncryptionUtility.cs" caret="1256" scrollPosition="0|29" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:App_Code/f:Global.cs" caret="0" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:App_Code/f:Web.config" caret="4833" scrollPosition="0|36" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:Registracija.txt" caret="0" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:Poll/f:Web.config" caret="604" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:Poll/f:NaujaApklausa.aspx.cs" caret="3139" scrollPosition="0|78" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:Poll/f:Kontaktai.aspx" caret="303" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:Poll/f:ApklausosValdymas.aspx" caret="514" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:Apklausa.aspx" caret="313" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:Atsakyk.aspx" caret="291" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:AtsakomybesApribojimas.aspx" caret="0" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:Pabaiga.aspx" caret="0" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:DummyGlobalAsax/f:Global.asax" caret="0" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:Registracija.aspx" caret="0" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:Shared/f:DefaultMaster2.master" caret="0" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:Poll/f:NaujaApklausa.aspx" caret="322" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:SlaptazodzioAtstatymas.aspx" caret="0" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:Apie.aspx" caret="261" scrollPosition="0|0" />
+      <File id="C138A6CF-279A-4E1E-83C3-D5B0FDCB4883/f:IPollController.cs" caret="93" scrollPosition="0|0" />
+      <File id="C138A6CF-279A-4E1E-83C3-D5B0FDCB4883/f:PollController.cs" caret="0" scrollPosition="0|0" />
+      <File id="C138A6CF-279A-4E1E-83C3-D5B0FDCB4883/f:PollModuleInitializer.cs" caret="1876" scrollPosition="0|25" />
+      <File id="C138A6CF-279A-4E1E-83C3-D5B0FDCB4883/d:Views/f:ApklausosValdymasPresenter.cs" caret="0" scrollPosition="0|0" />
+      <File id="C138A6CF-279A-4E1E-83C3-D5B0FDCB4883/d:Views/f:DefaultViewPresenter.cs" caret="0" scrollPosition="0|0" />
+      <File id="C138A6CF-279A-4E1E-83C3-D5B0FDCB4883/d:Views/f:IApklausosValdymasView.cs" caret="0" scrollPosition="0|0" />
+      <File id="C138A6CF-279A-4E1E-83C3-D5B0FDCB4883/d:Views/f:IKontaktaiView.cs" caret="0" scrollPosition="0|0" />
+      <File id="C138A6CF-279A-4E1E-83C3-D5B0FDCB4883/d:Views/f:IManoApklausosView.cs" caret="0" scrollPosition="0|0" />
+      <File id="C138A6CF-279A-4E1E-83C3-D5B0FDCB4883/d:Views/f:INaujaApklausaView.cs" caret="0" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:App_Code/f:StatisticsResults.cs" caret="2069" scrollPosition="0|48" />
+      <File id="C138A6CF-279A-4E1E-83C3-D5B0FDCB4883/d:Views/f:IDefaultView.cs" caret="0" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:Poll/f:ApklausosValdymas.aspx.cs" caret="5335" scrollPosition="0|131" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:Poll/f:ApklausosValdymas.aspx" caret="6288" scrollPosition="0|132" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:Apklausa.aspx.cs" caret="7263" scrollPosition="0|184" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:Apklausa.aspx.cs" caret="7649" scrollPosition="0|196" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:Poll/f:ManoApklausos.aspx.cs" caret="3964" scrollPosition="0|106" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:App_Code/f:Web.config" caret="14463" scrollPosition="0|230" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:App_Code/f:Web.config" caret="14349" scrollPosition="0|227" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:Poll/f:ManoApklausos.aspx.cs" caret="4393" scrollPosition="0|114" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:Poll/f:ApklausosValdymas.aspx.cs" caret="4322" scrollPosition="0|119" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:Apklausa.aspx.cs" caret="8577" scrollPosition="0|232" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:Registracija.aspx.cs" caret="2816" scrollPosition="0|72" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:Registracija.aspx.cs" caret="2924" scrollPosition="0|72" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:Apklausa.aspx.cs" caret="6851" scrollPosition="0|193" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:Apklausa.aspx.cs" caret="6847" scrollPosition="0|190" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:Apklausa.aspx.cs" caret="7030" scrollPosition="0|190" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:Poll/f:NaujaApklausa.aspx" caret="2624" scrollPosition="0|21" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:Poll/f:ApklausosValdymas.aspx" caret="2355" scrollPosition="0|51" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:Pabaiga.aspx" caret="2" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:AtsakomybesApribojimas.aspx" caret="0" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:Atsakyk.aspx" caret="0" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:App_Code/f:Web.config" caret="3615" scrollPosition="67|9" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:Shared/f:DefaultMaster.master" caret="1257" scrollPosition="0|9" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:Shared/f:DefaultMaster.master" caret="3306" scrollPosition="0|54" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:App_Code/f:StatisticsResults.cs" caret="1020" scrollPosition="0|24" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:App_Code/f:StatisticsResults.cs" caret="464" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:App_Code/f:EncryptionUtility.cs" caret="1154" scrollPosition="0|15" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/f:Apie.aspx" caret="0" scrollPosition="0|0" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:App_Code/f:DbAccessManager.cs" caret="554" scrollPosition="0|5" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:App_Code/f:Poll.designer.cs" caret="2050" scrollPosition="53|40" />
+      <File id="157DFEDC-8AAF-4F1C-8608-663A7CF24662/d:Shared/f:ApklausaMasterPage.master" caret="750" scrollPosition="0|0" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Menu">
+      <Item value="Items" priority="6" />
+      <Item value="StaticSelectedStyle" priority="0" />
+      <Item value="DataBind" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="item" priority="3" />
+      <Item value="MenuItemStyle" priority="1" />
+      <Item value="style" priority="2" />
+      <Item value="new" priority="63" />
+      <Item value="Menu1" priority="7" />
+      <Item value="e" priority="14" />
+      <Item value="true" priority="29" />
+      <Item value="if" priority="40" />
+      <Item value="int" priority="79" />
+      <Item value="index" priority="4" />
+      <Item value="ViewState" priority="9" />
+      <Item value="Nullable" priority="0" />
+      <Item value="else" priority="14" />
+      <Item value="string" priority="31" />
+      <Item value="foreach" priority="5" />
+      <Item value="selectedItem" priority="0" />
+      <Item value="Session" priority="4" />
+      <Item value="using" priority="24" />
+      <Item value="PollGenerator" priority="0" />
+      <Item value="System" priority="16" />
+      <Item value="Collections" priority="0" />
+      <Item value="Generic" priority="0" />
+      <Item value="Linq" priority="0" />
+      <Item value="var" priority="6" />
+      <Item value="Windows" priority="0" />
+      <Item value="Web" priority="7" />
+      <Item value="UI" priority="5" />
+      <Item value="pollID" priority="21" />
+      <Item value="NewQuestionTabPanel" priority="0" />
+      <Item value="NewQPanel" priority="10" />
+      <Item value="Box" priority="6" />
+      <Item value="StatisticsUtilities" priority="4" />
+      <Item value="Statistics" priority="3" />
+      <Item value="Stats" priority="1" />
+      <Item value="Panel4" priority="3" />
+      <Item value="ContentPlaceHolder" priority="0" />
+      <Item value="namespace" priority="0" />
+      <Item value="public" priority="18" />
+      <Item value="void" priority="15" />
+      <Item value="AjaxControlToolkit" priority="1" />
+      <Item value="DataAccess" priority="6" />
+      <Item value="Panel" priority="1" />
+      <Item value="am.Charts" priority="0" />
+      <Item value="panel" priority="0" />
+      <Item value="object" priority="3" />
+      <Item value="ImageClickEventHandler" priority="1" />
+      <Item value="Server" priority="2" />
+      <Item value="AppDomainManagerInitializationOptions" priority="0" />
+      <Item value="Response" priority="7" />
+      <Item value="QuestionReorderList" priority="19" />
+      <Item value="ImageButton" priority="6" />
+      <Item value="sender" priority="3" />
+      <Item value="button" priority="0" />
+      <Item value="Eval" priority="2" />
+      <Item value="Question" priority="2" />
+      <Item value="from" priority="13" />
+      <Item value="db" priority="26" />
+      <Item value="where" priority="15" />
+      <Item value="questionId" priority="9" />
+      <Item value="select" priority="15" />
+      <Item value="questions" priority="1" />
+      <Item value="q" priority="2" />
+      <Item value="DbAccessManager" priority="13" />
+      <Item value="manager" priority="17" />
+      <Item value="answers" priority="3" />
+      <Item value="List" priority="9" />
+      <Item value="ChoiceField" priority="0" />
+      <Item value="List&lt;ChoiceField&gt;" priority="0" />
+      <Item value="EventHandler&lt;ReorderListItemReorderEventArgs&gt;" priority="0" />
+      <Item value="this" priority="26" />
+      <Item value="for" priority="1" />
+      <Item value="i" priority="9" />
+      <Item value="ITemplate" priority="0" />
+      <Item value="List&lt;int&gt;" priority="0" />
+      <Item value="sequance" priority="1" />
+      <Item value="QDataSource" priority="0" />
+      <Item value="SiteMapNodeInfo" priority="4" />
+      <Item value="siteMapBuilderService" priority="3" />
+      <Item value="PrisijungtiModuleNode" priority="0" />
+      <Item value="Security" priority="0" />
+      <Item value="User" priority="6" />
+      <Item value="Membership" priority="1" />
+      <Item value="Username" priority="0" />
+      <Item value="Vartotojas" priority="0" />
+      <Item value="ProfileSettings" priority="0" />
+      <Item value="Microsoft" priority="0" />
+      <Item value="Practices" priority="0" />
+      <Item value="CompositeWeb" priority="0" />
+      <Item value="EventArgs" priority="4" />
+      <Item value="CreateUserWizardStep1" priority="0" />
+      <Item value="Context" priority="0" />
+      <Item value="poll" priority="19" />
+      <Item value="DateTime" priority="2" />
+      <Item value="userName" priority="4" />
+      <Item value="Data" priority="0" />
+      <Item value="SerializableAttribute" priority="1" />
+      <Item value="DataTable" priority="1" />
+      <Item value="p" priority="8" />
+      <Item value="table" priority="0" />
+      <Item value="PollsTable" priority="1" />
+      <Item value="Reflection" priority="0" />
+      <Item value="ListToDataTable" priority="0" />
+      <Item value="return" priority="29" />
+      <Item value="HttpCookie" priority="1" />
+      <Item value="cookie" priority="1" />
+      <Item value="Request" priority="3" />
+      <Item value="WebControls" priority="1" />
+      <Item value="MyPollsDataSource" priority="0" />
+      <Item value="MyPollsGridView" priority="3" />
+      <Item value="null" priority="2" />
+      <Item value="Poll" priority="2" />
+      <Item value="pollId" priority="25" />
+      <Item value="Text" priority="0" />
+      <Item value="Encoding" priority="0" />
+      <Item value="LookupParameter" priority="0" />
+      <Item value="ms" priority="0" />
+      <Item value="des" priority="0" />
+      <Item value="key" priority="0" />
+      <Item value="CryptoStreamMode" priority="0" />
+      <Item value="Convert" priority="0" />
+      <Item value="EncryptionUtility" priority="6" />
+      <Item value="Encryption" priority="5" />
+      <Item value="Net" priority="3" />
+      <Item value="Mail" priority="1" />
+      <Item value="SmtpDeliveryMethod" priority="0" />
+      <Item value="smtpClient" priority="0" />
+      <Item value="MailAddress" priority="2" />
+      <Item value="enscyptedPollId" priority="0" />
+      <Item value="serverUrl" priority="4" />
+      <Item value="TextBox" priority="1" />
+      <Item value="as" priority="0" />
+      <Item value="AnswerTextBox" priority="14" />
+      <Item value="protected" priority="3" />
+      <Item value="ValueButton" priority="0" />
+      <Item value="AnswerTextBoxCount" priority="2" />
+      <Item value="Page" priority="3" />
+      <Item value="Id" priority="2" />
+      <Item value="content" priority="4" />
+      <Item value="List&lt;string&gt;" priority="4" />
+      <Item value="private" priority="5" />
+      <Item value="ToString" priority="0" />
+      <Item value="MailMessageEventArgs" priority="1" />
+      <Item value="encryptedId" priority="0" />
+      <Item value="creationDate" priority="0" />
+      <Item value="args" priority="4" />
+      <Item value="pollName" priority="0" />
+      <Item value="name" priority="1" />
+      <Item value="false" priority="19" />
+      <Item value="dbManager" priority="0" />
+      <Item value="Panel3" priority="0" />
+      <Item value="Label" priority="0" />
+      <Item value="LiteralControl" priority="0" />
+      <Item value="RequiredDropDownList" priority="0" />
+      <Item value="Workbook" priority="1" />
+      <Item value="Worksheet" priority="7" />
+      <Item value="Book" priority="1" />
+      <Item value="Sheet" priority="7" />
+      <Item value="StatisticsUtilities.Results" priority="0" />
+      <Item value="StatisticsResults" priority="1" />
+      <Item value="Results" priority="1" />
+      <Item value="pollQuestionNames" priority="1" />
+      <Item value="DbManager" priority="10" />
+      <Item value="n" priority="4" />
+      <Item value="switch" priority="0" />
+      <Item value="questionType" priority="1" />
+      <Item value="case" priority="5" />
+      <Item value="break" priority="7" />
+      <Item value="WorksheetColumn" priority="15" />
+      <Item value="column" priority="0" />
+      <Item value="TextBoxColumn" priority="2" />
+      <Item value="WorksheetRow" priority="7" />
+      <Item value="questionNameRow" priority="9" />
+      <Item value="WorksheetCell" priority="13" />
+      <Item value="questionNameCell" priority="5" />
+      <Item value="Answers" priority="1" />
+      <Item value="answer" priority="1" />
+      <Item value="questionAnswerRow" priority="1" />
+      <Item value="QuestionAnswerCell" priority="2" />
+      <Item value="a" priority="1" />
+      <Item value="TextBoxCountColumn" priority="4" />
+      <Item value="AnswerCountRow" priority="1" />
+      <Item value="AnswerCountLabelCell" priority="7" />
+      <Item value="AnswerCountLabelRow" priority="11" />
+      <Item value="ResultsSheet" priority="24" />
+      <Item value="TextBoxCountLabelColumn" priority="5" />
+      <Item value="TextBoxColumn2" priority="0" />
+      <Item value="questionNameCell2" priority="1" />
+      <Item value="QuestionStatisticsColumn" priority="0" />
+      <Item value="AnswerCountColumn" priority="0" />
+      <Item value="questionLabelCell" priority="3" />
+      <Item value="questionLabelCell2" priority="0" />
+      <Item value="QuestionLabelsRow" priority="1" />
+      <Item value="QuestionAnswerCountLabel" priority="1" />
+      <Item value="questionAnswerIndex" priority="1" />
+      <Item value="questionAnswerCountIndex" priority="1" />
+      <Item value="questionCount" priority="2" />
+      <Item value="columnsCount" priority="0" />
+      <Item value="AddQuestionAnswers" priority="1" />
+      <Item value="row" priority="2" />
+      <Item value="cell" priority="0" />
+      <Item value="answerName" priority="0" />
+      <Item value="questionAnswerChoseCount" priority="0" />
+      <Item value="cell2" priority="2" />
+      <Item value="answerChose" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="DataType" priority="0" />
+      <Item value="pollCount" priority="1" />
+      <Item value="answerCount" priority="2" />
+      <Item value="responseCount" priority="0" />
+      <Item value="responseLimit" priority="2" />
+      <Item value="url" priority="2" />
+      <Item value="bool" priority="19" />
+      <Item value="CheckBoxListChecked" priority="1" />
+      <Item value="RadioButtonListChecked" priority="1" />
+      <Item value="ResultsButton" priority="3" />
+      <Item value="AttributesValueCollection" priority="7" />
+      <Item value="ValueList" priority="9" />
+      <Item value="valueIndex" priority="2" />
+      <Item value="RegistracijaModuleNode" priority="0" />
+      <Item value="Statistic" priority="0" />
+      <Item value="s" priority="1" />
+      <Item value="result" priority="0" />
+      <Item value="showPollResults" priority="1" />
+      <Item value="ShowResultsDropDownList" priority="2" />
+      <Item value="showResults" priority="4" />
+      <Item value="RespondersIP" priority="1" />
+      <Item value="resIP" priority="3" />
+      <Item value="Ip" priority="0" />
+      <Item value="id" priority="0" />
+      <Item value="ResponderIpAddress" priority="2" />
+      <Item value="hostIpAddress" priority="1" />
+      <Item value="obj" priority="4" />
+      <Item value="check" priority="0" />
+      <Item value="MultipleAnswersDropDownList" priority="2" />
+      <Item value="multipleAnswers" priority="4" />
+      <Item value="ViewButton" priority="3" />
+      <Item value="Image" priority="0" />
+      <Item value="ClientScript" priority="0" />
+      <Item value="Type" priority="1" />
+      <Item value="AtsakykModuleNode" priority="0" />
+      <Item value="value" priority="0" />
+      <Item value="publicPoll" priority="4" />
+      <Item value="PublicPollDropDownList" priority="2" />
+      <Item value="KontaktaiModuleNode" priority="0" />
+      <Item value="question" priority="0" />
+      <Item value="ReorderListItemEventArgs" priority="0" />
+      <Item value="ReorderListCommandEventArgs" priority="0" />
+      <Item value="ResultsBook" priority="0" />
+      <Item value="encoding" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.MenuItem">
+      <Item value="Selected" priority="5" />
+      <Item value="ChildItems" priority="0" />
+      <Item value="DataItem" priority="2" />
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.MenuItemStyle">
+      <Item value="ItemSpacing" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.MenuEventArgs">
+      <Item value="Item" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.MenuItemCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.Page">
+      <Item value="Title" priority="0" />
+      <Item value="ViewStateUserKey" priority="0" />
+      <Item value="Parent" priority="0" />
+      <Item value="Controls" priority="0" />
+      <Item value="IsValid" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse" priority="32" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AjaxControlToolkit.TabPanel">
+      <Item value="Controls" priority="4" />
+      <Item value="TemplateControl" priority="0" />
+      <Item value="ContentTemplate" priority="4" />
+      <Item value="Attributes" priority="0" />
+      <Item value="TemplateSourceDirectory" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.ControlCollection">
+      <Item value="AddAt" priority="3" />
+      <Item value="Count" priority="2" />
+      <Item value="Contains" priority="0" />
+      <Item value="Add" priority="5" />
+      <Item value="Clear" priority="1" />
+      <Item value="Remove" priority="0" />
+      <Item value="RemoveAt" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Panel">
+      <Item value="Controls" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StatisticsUtilities.Statistics">
+      <Item value="Generate" priority="1" />
+      <Item value="CheckResponseLimit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.ITemplate">
+      <Item value="InstantiateIn" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpServerUtility">
+      <Item value="Transfer" priority="0" />
+      <Item value="UrlEncode" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpResponse">
+      <Item value="Redirect" priority="3" />
+      <Item value="RedirectLocation" priority="0" />
+      <Item value="Write" priority="1" />
+      <Item value="Cookies" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AjaxControlToolkit.ReorderList">
+      <Item value="DataKeys" priority="0" />
+      <Item value="RenderItem" priority="0" />
+      <Item value="UpdateCommand" priority="1" />
+      <Item value="DataBind" priority="2" />
+      <Item value="Controls" priority="1" />
+      <Item value="Items" priority="11" />
+      <Item value="ItemReorder" priority="2" />
+      <Item value="AllowReorder" priority="0" />
+      <Item value="UpdateItem" priority="0" />
+      <Item value="RenderControl" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ImageButton">
+      <Item value="CommandArgument" priority="1" />
+      <Item value="Attributes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PollDataContext">
+      <Item value="Questions" priority="5" />
+      <Item value="SubmitChanges" priority="5" />
+      <Item value="ChoiceFields" priority="1" />
+      <Item value="Polls" priority="12" />
+      <Item value="Answers" priority="1" />
+      <Item value="Statistics" priority="3" />
+      <Item value="RespondersIPs" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Question">
+      <Item value="Id" priority="0" />
+      <Item value="Sequence" priority="1" />
+      <Item value="PollId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="SingleOrDefault" priority="6" />
+      <Item value="ToList" priority="3" />
+      <Item value="Single" priority="7" />
+      <Item value="Select" priority="0" />
+      <Item value="FirstOrDefault" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Linq.Table`1">
+      <Item value="DeleteOnSubmit" priority="0" />
+      <Item value="DeleteAllOnSubmit" priority="0" />
+      <Item value="Count" priority="0" />
+      <Item value="InsertOnSubmit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataAccess.DbAccessManager">
+      <Item value="DeleteQuestion" priority="0" />
+      <Item value="ReorderQuestionsSequence" priority="0" />
+      <Item value="DeletePoll" priority="0" />
+      <Item value="IsPollName" priority="0" />
+      <Item value="GetQuestionsNamesBySequenceNumber" priority="0" />
+      <Item value="GetQuestionType" priority="0" />
+      <Item value="GetQuestionID" priority="0" />
+      <Item value="GetQuestionAttributes" priority="0" />
+      <Item value="GetQuestionAnswers" priority="0" />
+      <Item value="GetQuestionAnswerChoices" priority="0" />
+      <Item value="GetPollCount" priority="0" />
+      <Item value="GetQuestionCount" priority="0" />
+      <Item value="GetAnswerCount" priority="1" />
+      <Item value="GetResponseLimit" priority="0" />
+      <Item value="GetResponseCount" priority="0" />
+      <Item value="GetPollUrl" priority="0" />
+      <Item value="HasPollAnswers" priority="1" />
+      <Item value="ShowPollResults" priority="1" />
+      <Item value="InsertResponderIP" priority="0" />
+      <Item value="IsIpAddressRegistered" priority="0" />
+      <Item value="IsMultipleAnswerChecked" priority="1" />
+      <Item value="HasPollQuestions" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChoiceField">
+      <Item value="QuestionId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PollGenerator.Poll.Views.ApklausosValdymas">
+      <Item value="OrderElements" priority="0" />
+      <Item value="QDataSource" priority="0" />
+      <Item value="QuestionReorderList" priority="2" />
+      <Item value="Master" priority="2" />
+      <Item value="NewQPanel" priority="0" />
+      <Item value="Page" priority="1" />
+      <Item value="RestoreControls" priority="0" />
+      <Item value="DeleteQuestionAnswers" priority="1" />
+      <Item value="RequiredDropDownList" priority="3" />
+      <Item value="HasPollAnswers" priority="0" />
+      <Item value="RedirectUrlTextBox" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AjaxControlToolkit.ReorderListItemCollection">
+      <Item value="Count" priority="6" />
+      <Item value="Clear" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AjaxControlToolkit.ReorderListItem">
+      <Item value="DataItemIndex" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.SqlDataSource">
+      <Item value="Update" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Practices.CompositeWeb.Interfaces.ISiteMapBuilderService">
+      <Item value="AddNode" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Security.Roles">
+      <Item value="AddUserToRole" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Principal.IPrincipal">
+      <Item value="ToString" priority="2" />
+      <Item value="Identity" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Principal.IIdentity">
+      <Item value="Name" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Security.Membership">
+      <Item value="CreateUser" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Security.MembershipUser">
+      <Item value="UserName" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.CreateUserWizard">
+      <Item value="UserName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContext">
+      <Item value="User" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Poll">
+      <Item value="Created" priority="2" />
+      <Item value="UserName" priority="3" />
+      <Item value="Name" priority="2" />
+      <Item value="Description" priority="0" />
+      <Item value="Id" priority="6" />
+      <Item value="ResponseLimit" priority="6" />
+      <Item value="ResponseCount" priority="3" />
+      <Item value="Url" priority="0" />
+      <Item value="ShowResults" priority="2" />
+      <Item value="MultipleAnswers" priority="2" />
+      <Item value="PublicPoll" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpCookie">
+      <Item value="Values" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Specialized.NameValueCollection">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequest">
+      <Item value="Cookies" priority="3" />
+      <Item value="UserHostAddress" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridView">
+      <Item value="DataSource" priority="0" />
+      <Item value="DataBind" priority="2" />
+      <Item value="Rows" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="GetHashCode" priority="1" />
+      <Item value="ToString" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.Encoding">
+      <Item value="UTF8" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.Encoding">
+      <Item value="GetBytes" priority="0" />
+      <Item value="GetChars" priority="0" />
+      <Item value="GetString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Cryptography.DESCryptoServiceProvider">
+      <Item value="CreateDecryptor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Security.Cryptography.CryptoStreamMode">
+      <Item value="Write" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToString" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@EncryptionUtility.Encryption">
+      <Item value="Decrypt" priority="0" />
+      <Item value="Encrypt" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Trim" priority="0" />
+      <Item value="ToString" priority="1" />
+      <Item value="Contains" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.MailMessageEventArgs">
+      <Item value="Message" priority="4" />
+      <Item value="Cancel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Mail.SmtpClient">
+      <Item value="Credentials" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Mail.MailMessage">
+      <Item value="From" priority="0" />
+      <Item value="DeliveryNotificationOptions" priority="0" />
+      <Item value="Sender" priority="0" />
+      <Item value="ReplyTo" priority="0" />
+      <Item value="AlternateViews" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Mail.AlternateViewCollection">
+      <Item value="Clear" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridViewRowCollection">
+      <Item value="CopyTo" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.MasterPage">
+      <Item value="FindControl" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TextBox">
+      <Item value="Width" priority="0" />
+      <Item value="ID" priority="1" />
+      <Item value="Text" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Button">
+      <Item value="Visible" priority="0" />
+      <Item value="Enabled" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="4" />
+      <Item value="Add" priority="1" />
+      <Item value="Clear" priority="0" />
+      <Item value="RemoveAt" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ServerValidateEventArgs">
+      <Item value="Value" priority="3" />
+      <Item value="IsValid" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="2" />
+      <Item value="Format" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.DropDownList">
+      <Item value="SelectedIndex" priority="9" />
+      <Item value="Enabled" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CarlosAg.ExcelXmlWriter.Workbook">
+      <Item value="Worksheets" priority="0" />
+      <Item value="Save" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CarlosAg.ExcelXmlWriter.WorksheetCollection">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Practices.CompositeWeb.Web.HttpServerUtility">
+      <Item value="MapPath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StatisticsUtilities.Results.StatisticsResults">
+      <Item value="ExportResults" priority="0" />
+      <Item value="CreateColumns" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CarlosAg.ExcelXmlWriter.Worksheet">
+      <Item value="Table" priority="29" />
+      <Item value="Options" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CarlosAg.ExcelXmlWriter.WorksheetTable">
+      <Item value="Columns" priority="19" />
+      <Item value="Rows" priority="30" />
+      <Item value="DefaultColumnWidth" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CarlosAg.ExcelXmlWriter.WorksheetColumnCollection">
+      <Item value="Add" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CarlosAg.ExcelXmlWriter.WorksheetColumn">
+      <Item value="Table" priority="15" />
+      <Item value="AutoFitWidth" priority="1" />
+      <Item value="Index" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CarlosAg.ExcelXmlWriter.WorksheetRowCollection">
+      <Item value="Add" priority="24" />
+      <Item value="[]" priority="1" />
+      <Item value="Insert" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CarlosAg.ExcelXmlWriter.WorksheetRow">
+      <Item value="AutoFitHeight" priority="4" />
+      <Item value="Cells" priority="10" />
+      <Item value="Index" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CarlosAg.ExcelXmlWriter.WorksheetCellCollection">
+      <Item value="Add" priority="11" />
+      <Item value="[]" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CarlosAg.ExcelXmlWriter.WorksheetCell">
+      <Item value="Row" priority="0" />
+      <Item value="Data" priority="11" />
+      <Item value="Index" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CarlosAg.ExcelXmlWriter.WorksheetCellData">
+      <Item value="Text" priority="8" />
+      <Item value="Type" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Answer">
+      <Item value="QuestionId" priority="0" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Statistic">
+      <Item value="QuestionID" priority="1" />
+      <Item value="AnswerName" priority="1" />
+      <Item value="AnswerChose" priority="0" />
+      <Item value="PollID" priority="0" />
+      <Item value="ID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CarlosAg.ExcelXmlWriter.DataType">
+      <Item value="Number" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ContentPlaceHolder">
+      <Item value="Controls" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PollGenerator.Shell.Views.Apklausa">
+      <Item value="PollEnd" priority="2" />
+      <Item value="CheckResponseLimit" priority="0" />
+      <Item value="CheckPollMultipleAnswers" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RespondersIP">
+      <Item value="PollId" priority="2" />
+      <Item value="IP" priority="0" />
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.AttributeCollection">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PollGenerator.Poll.Views.ManoApklausos">
+      <Item value="Form" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.HtmlControls.HtmlForm">
+      <Item value="Target" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.ClientScriptManager">
+      <Item value="RegisterStartupScript" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpCookieCollection">
+      <Item value="Remove" priority="1" />
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.SessionState.HttpSessionState">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
